@@ -1,4 +1,4 @@
-Read more about http://localhost:3000/posts/2015-07-19-gradle-getting-started-template.html
+Read more about [Gradle 'Getting Started' template](http://akazlou.com/posts/2015-07-19-gradle-getting-started-template.html)
 
 ## How to use it
  - clone the repository `git clone https://github.com/zshamrock/gradle-getting-started-template.git`
