@@ -10,7 +10,7 @@ Read more about [Gradle 'Getting Started' template](http://akazlou.com/posts/201
  - commit your changes `git commit -m "Getting started"`
  - push your changes into the remote repository `git push -u origin master`
 
-### Via script
+### Via script (recommended)
  - download and put `gradleGettingStarted.groovy` script into bin folder
  - run `gradleGettingStarted.groovy` or `gradleGettingStarted.groovy <project name>`
  - provide the project name script asks for (if run without project name specified)
