@@ -1,6 +1,7 @@
 Read more about [Gradle 'Getting Started' template](http://akazlou.com/posts/2015-07-19-gradle-getting-started-template.html)
 
 ## How to use it
+
 ### Manually
  - clone the repository `git clone https://github.com/zshamrock/gradle-getting-started-template.git <your project name>`
  - unlink remote `git remote rm origin`
@@ -8,6 +9,7 @@ Read more about [Gradle 'Getting Started' template](http://akazlou.com/posts/201
  - add all files into Git `git add .`
  - commit your changes `git commit -m "Getting started"`
  - push your changes into the remote repository `git push -u origin master`
+
 ### Via script
  - download and put `gradleGettingStarted.groovy` script into bin folder
  - run `gradleGettingStarted.groovy` or `gradleGettingStarted.groovy <project name>`
