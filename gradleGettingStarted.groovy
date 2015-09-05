@@ -40,7 +40,7 @@ def gitClone() {
 }
 
 def dropNonProjectFiles() {
-    def drop = ['.git', 'README.md']
+    def drop = ['.git', 'README.md', 'gradleGettingStarted.groovy']
     drop.each { 
         def path = Paths.get(projectName, it)
         if (Files.isDirectory(path)) {
