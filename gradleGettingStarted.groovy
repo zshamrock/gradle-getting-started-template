@@ -53,7 +53,7 @@ def dropNonProjectFiles() {
 
 def gitInit() {
     def execDir = new File(projectName)
-    def gitCommands = [['init'], ['add', '.'], ['commit', '-m', 'Gradle getting started']]
+    def gitCommands = [['init'], ['add', '.'], ['commit', '-m', 'Gradle getting started template']]
     gitCommands.each { command -> 
         owner.proc = ['git', *command].execute(null, execDir)
         owner.proc.log()
