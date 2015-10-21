@@ -26,7 +26,7 @@ sourceSets {
 
 ext {
     groovyMajorVersion = 2.4
-    groovyMinorVersion = 4
+    groovyMinorVersion = 5
 }
 
 repositories {
@@ -39,7 +39,7 @@ dependencies {
 }
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '2.6'
+    gradleVersion = '2.8'
 }
 
 task checkCoverage(dependsOn: ['test', 'jacocoTestReport']) {
