@@ -1,6 +1,22 @@
+### About
+Opinionated Gradle getting started template as a good starting point for any project. 
+The focus here on the simplicity, and the use of code quality and static analysis tools:
+- JaCoCo - for test coverage
+- Checkstyle - for standardize and control the style between members in the team
+- PMD/FindBugs - to spot any potential bug places and establish best practices
+- Spock Framework - as the flexible testing for framework for Java project
+
+The versions of the tools used in this template see below in the table.
+
 Read more about [Gradle 'Getting Started' template](http://akazlou.com/posts/2015-07-19-gradle-getting-started-template.html)
 
 ## How to use it
+
+### Via script (recommended)
+ - download and put `gradleGettingStarted.groovy` script into bin folder
+ - run `gradleGettingStarted.groovy` or `gradleGettingStarted.groovy <project name>`
+ - provide the project name script asks for (if run without project name specified)
+ - add your remote location `git remote add origin <your remote location>`
 
 ### Manually
  - clone the repository `git clone https://github.com/zshamrock/gradle-getting-started-template.git <your project name>`
@@ -9,12 +25,6 @@ Read more about [Gradle 'Getting Started' template](http://akazlou.com/posts/201
  - add all files into Git `git add .`
  - commit your changes `git commit -m "Getting started"`
  - push your changes into the remote repository `git push -u origin master`
-
-### Via script (recommended)
- - download and put `gradleGettingStarted.groovy` script into bin folder
- - run `gradleGettingStarted.groovy` or `gradleGettingStarted.groovy <project name>`
- - provide the project name script asks for (if run without project name specified)
- - add your remote location `git remote add origin <your remote location>`
 
 ### Tools versions
 <table>
