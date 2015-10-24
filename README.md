@@ -14,7 +14,7 @@ Read more about [Gradle 'Getting Started' template](http://akazlou.com/posts/201
 
 #### Via script (recommended)
  - download and put `gradleGettingStarted.groovy` script into bin folder
- - run `gradleGettingStarted.groovy` or `gradleGettingStarted.groovy <project name>`
+ - run `gradle-init.groovy` or `gradle-init.groovy <project name>`
  - provide the project name script asks for (if run without project name specified)
  - add your remote location `git remote add origin <your remote location>`
 
