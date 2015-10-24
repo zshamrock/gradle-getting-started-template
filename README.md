@@ -4,7 +4,7 @@ The focus here on the simplicity, and the use of code quality and static analysi
 - JaCoCo - for test coverage
 - Checkstyle - for standardize and control the style between members in the team
 - PMD/FindBugs - to spot any potential bug places and establish best practices
-- Spock Framework - as the flexible testing for framework for Java project
+- Spock Framework - as the flexible testing framework for Java project
 
 The versions of the tools used in this template see below in the table.
 
