@@ -13,8 +13,8 @@ Read more about [Gradle 'Getting Started' template](http://akazlou.com/posts/201
 ### How to use it
 
 #### Via script (recommended)
- - download and put `gradleGettingStarted.groovy` script into bin folder
- - run `gradle-init.groovy` or `gradle-init.groovy <project name>`
+ - download and put `gradleinit` script into bin folder
+ - run `gradleinit` or `gradleinit <project name>`
  - provide the project name script asks for (if run without project name specified)
  - add your remote location `git remote add origin <your remote location>`
 
