@@ -1,5 +1,5 @@
 ### About
-Opinionated Gradle getting started template as a good starting point for any project. 
+Opinionated Gradle getting started template as a good starting point for the project. 
 The focus here on the simplicity, and the use of code quality and static analysis tools:
 - JaCoCo - for test coverage
 - Checkstyle - for standardize and control the style between members in the team
