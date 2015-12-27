@@ -39,11 +39,11 @@ Read more about [Gradle 'Getting Started' template](http://akazlou.com/posts/201
         <th>JaCoCo</th>
     </tr>
     <tr>
-        <td>2.8 (released 20th October 2015)</td>
+        <td>2.10 (released 21st December 2015)</td>
         <td>2.4.5 (released 7th September 2015)</td>
         <td>1.8</td>
-        <td>5.4.0 (released 4th October 2015)</td>
-        <td>6.11.2 (released 5th October 2015)</td>
+        <td>5.4.1 (released 4th December 2015)</td>
+        <td>6.13 (released 30th November 2015)</td>
         <td>3.0.1 (release 6th March 2015)</td>
         <td>2.9.1 (released 22nd August 2008)</td>
         <td>0.7.5.201505241946 (released 24th May 2015)</td>

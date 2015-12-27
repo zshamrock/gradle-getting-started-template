@@ -39,7 +39,7 @@ dependencies {
 }
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '2.8'
+    gradleVersion = '2.10'
 }
 
 task checkCoverage(dependsOn: ['test', 'jacocoTestReport']) {
